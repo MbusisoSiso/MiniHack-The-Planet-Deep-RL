@@ -20,6 +20,37 @@ All relevant architecture information is provided in the 'Reinforcement_learning
  <img width="70%" src="Images/model.png" />
 </p>
 
+### Results on different environments
+Room 5x5 v0
+<p align="center">
+ <img width="70%" src="DQN/Results/Room-5x5-v0.png" />
+</p>
+
+Eat v0
+<p align="center">
+ <img width="70%" src="DQN/Results/Eat.png" />
+</p>
+
+Key Room S5 v0
+<p align="center">
+ <img width="70%" src="DQN/Results/KeyRoom-S5-v0.png" />
+</p>
+
+Corridor R2 v0
+<p align="center">
+ <img width="70%" src="DQN/Results/Corridor-R2-v0.png" />
+</p>
+
+Lava Cross Levitate Ring Inv v0
+<p align="center">
+ <img width="70%" src="DQN/Results/LavaCross-Levitate-Ring-Inv-v0.png" />
+</p>
+
+Quest Hard v0
+<p align="center">
+ <img width="70%" src="DQN/Results/Quest-Hard.png" />
+</p>
+
 ## Reinforce
 All files required in order to run the Reinforce model are contained in the Reinforce folder. In order to run, run the cells of the 'test_reinforce.ipynb' notebook.
 Major ppackage imports are contained within one of the cells in the notebook.
