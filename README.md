@@ -19,3 +19,8 @@ All relevant architecture information is provided in the 'Reinforcement_learning
 <p align="center">
  <img width="70%" src="Images/model.png" />
 </p>
+
+## Reinforce
+All files required in order to run the Reinforce model are contained in the Reinforce folder. In order to run, run the cells of the 'test_reinforce.ipynb' notebook.
+Major ppackage imports are contained within one of the cells in the notebook.
+Googlde colabotory was used to run the notebook, and as such, the working directory, which in my case is '/content/drive/MyDrive/Colab Notebooks/RL_Ass/test_reinforce', will need to be changed to your local working directory in any place where the working directory occurs. (It occurs in 3 places in the notebook).
