@@ -51,6 +51,14 @@ Quest Hard v0
  <img width="70%" src="DQN/Results/Quest-Hard.png" />
 </p>
 
+#### Packages Required
+- pytorch https://github.com/pytorch/pytorch
+- open ai gym https://github.com/openai/gym
+- minihack https://github.com/facebookresearch/minihack
+
+#### Run Instructions
+Simply install required packages and run DQN.py file in terminal using the comand 'python3 DQN.py' no arguments are required.
+
 ## Reinforce
 All files required in order to run the Reinforce model are contained in the Reinforce folder. In order to run, run the cells of the 'test_reinforce.ipynb' notebook.
 Major ppackage imports are contained within one of the cells in the notebook.
